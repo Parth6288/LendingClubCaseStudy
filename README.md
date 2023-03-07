@@ -63,8 +63,7 @@ Thanks to
 Created by 
 - Parth Gandhi : 
 > [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Parth6288) 
-- Satyanaraya D
-> [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dtsatyam) 
+
 
 Please feel free to contact us.
 
